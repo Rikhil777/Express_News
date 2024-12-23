@@ -10,31 +10,14 @@ const PORT = process.env.PORT || 5000;
 const NEWS_API_URL = "https://newsapi.org/v2/top-headlines";
 const API_KEY = process.env.NEWS_API_KEY; 
 
-// app.get("/api/news", async (req, res) => {
-//     try {
-//         const { category, q } = req.query;
-//         const response = await axios.get(NEWS_API_URL, {
-//             params: {
-//                 apiKey: API_KEY,
-//                 country: "us",
-//                 category,
-//                 q,
-//             },
-//         });
-//         res.json(response.data);
-//     } catch (error) {
-//         console.error(error.message);
-//         res.status(500).send("Error fetching news");
-//     }
-// });
 
 app.get("/api/news", async (req, res) => {
     try {
-        const { category, q } = req.query;
+        const { category, q, country } = req.query; 
         const response = await axios.get(NEWS_API_URL, {
             params: {
                 apiKey: API_KEY,
-                country: "us",
+                country: country || "us", 
                 category: category || undefined, 
                 q: q || undefined, 
             },
@@ -45,6 +28,7 @@ app.get("/api/news", async (req, res) => {
         res.status(500).send("Error fetching news");
     }
 });
+
 
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
