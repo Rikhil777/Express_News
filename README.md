@@ -55,7 +55,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/express-news.git
+   git clone https://github.com/Rikhil777/Express_News.git
    cd express-news
    ```
 
