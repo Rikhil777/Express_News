@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Express_News/static/css/main.6ae7c3de.css",
+    "main.js": "/Express_News/static/js/main.886a3468.js",
+    "static/js/453.419a5d54.chunk.js": "/Express_News/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Express_News/index.html",
+    "main.6ae7c3de.css.map": "/Express_News/static/css/main.6ae7c3de.css.map",
+    "main.886a3468.js.map": "/Express_News/static/js/main.886a3468.js.map",
+    "453.419a5d54.chunk.js.map": "/Express_News/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ae7c3de.css",
+    "static/js/main.886a3468.js"
+  ]
+}
