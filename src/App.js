@@ -88,7 +88,7 @@ function App() {
     return (
         <div className="App dark">
             <header className="header">
-                <img src="../express.png" alt="website logo" className="logo" />
+                <img src="./public/express.png" alt="website logo" className="logo" />
                 <h1>Express News</h1>
                 <div className="search">
                     <input
