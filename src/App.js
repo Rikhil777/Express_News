@@ -2,6 +2,8 @@ import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import "./App.css";
 import { FaSearch } from "react-icons/fa";
+import logo from "./express.png";
+
 
 function App() {
     const [news, setNews] = useState([]);
@@ -88,7 +90,7 @@ function App() {
     return (
         <div className="App dark">
             <header className="header">
-                <img src="public/express.png" alt="website logo" className="logo" />
+                <img src={logo} alt="website logo" className="logo" />
                 <h1>Express News</h1>
                 <div className="search">
                     <input
