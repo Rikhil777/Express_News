@@ -133,10 +133,12 @@ express-news/
 ## **Screenshots**
 
 ### Home Page
-![Home Page](https://via.placeholder.com/600x400?text=Home+Page+Screenshot)
+![image](https://github.com/user-attachments/assets/79348e61-879c-455e-9eee-b47178c7aea1)
+
 
 ### Search Results
-![Search](https://via.placeholder.com/600x400?text=Search+Results+Screenshot)
+![image](https://github.com/user-attachments/assets/ecbe35c6-0cde-43bd-8ee7-8dfe61a5fe61)
+
 
 ---
 
@@ -147,32 +149,7 @@ express-news/
 - Integrate a "Save Article" feature for registered users.
 - Add dark/light mode toggle.
 
----
 
-## **Contributing**
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
-
----
-
-## **License**
-
-This project is licensed under the MIT License.
-
----
 
 ## **Contact**
 
@@ -182,6 +159,6 @@ For any questions or suggestions, contact:
 - **Email**: kakanirikhil7@gmail.com  
 - **LinkedIn**: [Rikhil Kakani](https://www.linkedin.com/in/rikhil-kakani-1a139a212/)  
 
----
 
-Feel free to replace placeholders with actual links or additional details. Let me know if you want any further modifications! 🚀
+
+
