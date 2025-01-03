@@ -133,11 +133,12 @@ express-news/
 ## **Screenshots**
 
 ### Home Page
-![image](https://github.com/user-attachments/assets/79348e61-879c-455e-9eee-b47178c7aea1)
+![Screenshot (22)](https://github.com/user-attachments/assets/d423b65d-9819-4920-a23d-9e0c91d55f22)
+
 
 
 ### Search Results
-![image](https://github.com/user-attachments/assets/ecbe35c6-0cde-43bd-8ee7-8dfe61a5fe61)
+![image](https://github.com/user-attachments/assets/bad6a479-926c-4df7-a0b4-abe79ad9a40b)
 
 
 ---
